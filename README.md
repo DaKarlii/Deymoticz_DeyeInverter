@@ -1,4 +1,7 @@
-# First Thanks...
+# First 
+This repo is no longer being developed. (I had to switch to a Hoymiles Inverter because Deye lost a needed certification and was broken...)
+
+## but still Thanks...
 
  + ...to @jlopez77 https://github.com/jlopez77
 
