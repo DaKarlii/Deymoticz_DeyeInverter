@@ -29,8 +29,12 @@ Tests indicate that the full ModBus is available through the TCP connection.
 ## Tested and works with 
 
 Deye SUN800G3-EU-230 Micro Inverters
-+ Logger SN: 41xxxxxxxx
-+ Inverter SN: 22xxxxxxxx
++ Logger SN:
+++ 39xxxxxxxx
+++ 41xxxxxxxx
++ Inverter SN:
+++ 22xxxxxxxx
+++ 23xxxxxxxx
 
 
 ### Scan for Logger
